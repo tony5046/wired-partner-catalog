@@ -1,0 +1,6 @@
+업체별 상품 카탈로그 (와이어드민 연동)
+
+업체 전용 링크, 관심도 통계, 제안서 요청/엑셀, 와이어드민 동기화
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01BaHYhdhRYQMzumCnpdvuzf
